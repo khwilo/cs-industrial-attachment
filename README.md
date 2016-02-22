@@ -6,9 +6,14 @@ Other IT related courses can also benefit from such information.
 The list I have come up with so far includes:  
 
 | Company Name | Location |
-| --- | --- |
+| ----- | ----- |
 | [AdCare](http://www.adcare.co.ke) | Adcare Titan Complex, Chaka Rd, Nairobi |
-| [SoftClans Technologies Limited](http://www.softclans.co.ke) | Mirage Plaza, Mombasa Rd, Nairobi, Kenya |
+| [Craft Silicon](http://www.craftsilicon.com)| Musa Gitau Rd, Nairobi |  
+| [Google Nairobi](http://www.google.com/about/careers/locations/nairobi) | 7th Floor, Purshottam Place Westlands Rd, Westlands, Nairobi |
+| [IBM](http://www.ibm.com/ke-en) | 04th Floor, Atrium Building Cnr Chaka and Lenana Road, Kilimani, Nairobi | 
+| [Oracle Kenya](https://www.oracle.com/ke/index.html) | 5th Floor Milimani Rd, Nairobi |
+| [SoftClans Technologies Limited](http://www.softclans.co.ke) | Mirage Plaza, Mombasa Rd, Nairobi |
+
 
 ## About
 
