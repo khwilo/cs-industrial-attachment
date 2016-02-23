@@ -9,11 +9,11 @@ The list I have come up with so far includes:
 | ----- | ----- |
 | [AdCare](http://www.adcare.co.ke) | Adcare Titan Complex, Chaka Rd, Nairobi |
 | [Bernsoft](http://www.bernsoft.com)| Bernsoft, Applewood Park, West Wing, Suite 505, 4th Floor, Wood Ave, Nairobi City, Kenya|
-| [Indigo Telecom](http://www.indigotelecom.com)| Indigo Telecom Ltd, 1st floor, Unit B, Nairobi Business Park|
 | [Cellulant Kenya](http://www.cellulant.com/) | 5th & 6th Floor, Cavendish Building, 14 Riverside Dr, Nairobi City, Kenya |
 | [Craft Silicon](http://www.craftsilicon.com)| Musa Gitau Rd, Nairobi |  
 | [Google Nairobi](http://www.google.com/about/careers/locations/nairobi) | Google Nairobi, 7th Floor, Purshottam Place Westlands Rd, Westlands, Nairobi |
 | [IBM](http://www.ibm.com/ke-en) | IBM Kenya, 04th Floor, Atrium Building Cnr Chaka and Lenana Road, Kilimani, Nairobi | 
+| [Indigo Telecom](http://www.indigotelecom.com)| Indigo Telecom Ltd, 1st floor, Unit B, Nairobi Business Park|
 | [Oracle Kenya](https://www.oracle.com/ke/index.html) | Oracle System Ltd, 5th Floor Milimani Rd, Nairobi |
 | [SoftClans Technologies Limited](http://www.softclans.co.ke) | Mirage Plaza, Mombasa Rd, Nairobi |
 
