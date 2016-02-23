@@ -16,7 +16,8 @@ The list I have come up with so far includes:
 | [Indigo Telecom](http://www.indigotelecom.com)| Indigo Telecom Ltd, 1st floor, Unit B, Nairobi Business Park|
 | [Oracle Kenya](https://www.oracle.com/ke/index.html) | Oracle System Ltd, 5th Floor Milimani Rd, Nairobi |
 | [SoftClans Technologies Limited](http://www.softclans.co.ke) | Mirage Plaza, Mombasa Rd, Nairobi |
-
+| [CloudHop](http://cloudhop.it) | 2nd Floor, Encee Place, Muguga Green, Nairobi, Kenya|
+| [CopyCat](http://www.copycatgroup.com)|Essar House, Muguga Green Lane, Off Brookside Drive, Westlands|
 
 ## About
 
