@@ -5,6 +5,7 @@ You are welcomed to contribute if you know of a company or a start up that offer
 ## Remember to include:  
 * The name and location  
 * Maintain the alphabetic order  
+* The internship or attachment information page
 
 ## Ideally you contribute by:
 1. Forking the project
