@@ -2,9 +2,14 @@
 
 You are welcomed to contribute if you know of a company or a start up that offers industrial attachment for any IT related field. Open up a pull request to add an item on the list.  
 
-Remember to include:  
+## Remember to include:  
 * The name and location  
 * Maintain the alphabetic order  
+
+## Ideally you contribute by:
+1. Forking the project
+2. Making changes following the above given guidelines
+3. Performing a pull request
 
 ## PS
 Any improvements to the list are highly encouraged.  
