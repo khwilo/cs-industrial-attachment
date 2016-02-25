@@ -14,6 +14,9 @@ The list I have come up with so far includes:
 | [IBM](http://www.ibm.com/ke-en) | IBM Kenya, 04th Floor, Atrium Building Cnr Chaka and Lenana Road, Kilimani, Nairobi | 
 | [Oracle Kenya](https://www.oracle.com/ke/index.html) | Oracle System Ltd, 5th Floor Milimani Rd, Nairobi |
 | [SoftClans Technologies Limited](http://www.softclans.co.ke) | Mirage Plaza, Mombasa Rd, Nairobi |
+| [Ushahidi Kenya](https://www.ushahidi.com) | 1st Floor, Bishop Magua Centre, Ngong Rd, Nairobi, Kenya| 
+| [Sematime](http://sematime.com/) | 671 Kirichwa Rd, Nairobi City, Kenya|
+
 
 
 ## About
