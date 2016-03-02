@@ -8,6 +8,7 @@ The list I have come up with so far includes:
 | Company Name | Location | Careers Page |
 | ----- | ----- | ----- |
 | [AdCare](http://www.adcare.co.ke) | Adcare Titan Complex, Chaka Rd, Nairobi | - |
+| [Africa's talking](https://www.africastalking.com) |  Galana Rd, Nairobi, Kenya | - |
 | [Bernsoft](http://www.bernsoft.com)| Bernsoft, Applewood Park, West Wing, Suite 505, 4th Floor, Wood Ave, Nairobi City, Kenya| - |
 | [Cellulant Kenya](http://www.cellulant.com/) | 5th & 6th Floor, Cavendish Building, 14 Riverside Dr, Nairobi City, Kenya | [link](http://www.cellulant.com/join-us) |
 | [CloudHop](http://cloudhop.it) | 2nd Floor, Encee Place, Muguga Green, Nairobi, Kenya| - |
