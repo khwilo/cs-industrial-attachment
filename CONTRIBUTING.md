@@ -2,10 +2,10 @@
 
 You are welcomed to contribute if you know of a company or a start up that offers industrial attachment for any IT related field. Open up a pull request to add an item on the list.  
 
-## Remember to include:  
-* The name and location  
+## Guidelines:  
+* Include the name, location and careers page
+* The careers page includes an acronym of the company's name in the form `abc-link`
 * Maintain the alphabetic order  
-* The internship or attachment information page
 
 ## Ideally you contribute by:
 1. Forking the project
