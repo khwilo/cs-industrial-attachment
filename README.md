@@ -11,14 +11,14 @@ The list I have come up with so far includes:
 | [Africa's talking](https://www.africastalking.com) |  Galana Rd, Nairobi, Kenya | - |
 | [Bernsoft](http://www.bernsoft.com)| Bernsoft, Applewood Park, West Wing, Suite 505, 4th Floor, Wood Ave, Nairobi City, Kenya| - |  
 |[Broadband Communication Networks](http://www.broadcom.co.ke/) | Kalson Towers, P.O Box 10840 Parklands Rd, Nairobi, Kenya | [bcn-link](http://www.broadcom.co.ke/?page_id=3192) |
-| [Cellulant Kenya](http://www.cellulant.com/) | 5th & 6th Floor, Cavendish Building, 14 Riverside Dr, Nairobi City, Kenya | [link](http://www.cellulant.com/join-us) |
+| [Cellulant Kenya](http://www.cellulant.com/) | 5th & 6th Floor, Cavendish Building, 14 Riverside Dr, Nairobi City, Kenya | [ck-link](http://www.cellulant.com/join-us) |
 | [CloudHop](http://cloudhop.it) | 2nd Floor, Encee Place, Muguga Green, Nairobi, Kenya| - |
 | [CopyCat](http://www.copycatgroup.com)|Essar House, Muguga Green Lane, Off Brookside Drive, Westlands| - |
-| [Craft Silicon](http://www.craftsilicon.com)| Musa Gitau Rd, Nairobi | [link](http://www.craftsilicon.com/careers.php) |
+| [Craft Silicon](http://www.craftsilicon.com)| Musa Gitau Rd, Nairobi | [cs-link](http://www.craftsilicon.com/careers.php) |
 | [Google Nairobi](http://www.google.com/about/careers/locations/nairobi) | Google Nairobi, 7th Floor, Purshottam Place Westlands Rd, Westlands, Nairobi | - |
-| [IBM](http://www.ibm.com/ke-en) | IBM Kenya, 04th Floor, Atrium Building Cnr Chaka and Lenana Road, Kilimani, Nairobi | [link](http://www-05.ibm.com/employment/emea/africa/) | 
-| [Indigo Telecom](http://www.indigotelecom.com)| Indigo Telecom Ltd, 1st floor, Unit B, Nairobi Business Park| [link](http://www.indigotelecom.com/careers/) |
-| [Oracle Kenya](https://www.oracle.com/ke/index.html) | Oracle System Ltd, 5th Floor Milimani Rd, Nairobi | [link](http://www.oracle.com/oms/campus/emea/index.html) |
+| [IBM](http://www.ibm.com/ke-en) | IBM Kenya, 04th Floor, Atrium Building Cnr Chaka and Lenana Road, Kilimani, Nairobi | [ibm-link](http://www-05.ibm.com/employment/emea/africa/) | 
+| [Indigo Telecom](http://www.indigotelecom.com)| Indigo Telecom Ltd, 1st floor, Unit B, Nairobi Business Park| [it-link](http://www.indigotelecom.com/careers/) |
+| [Oracle Kenya](https://www.oracle.com/ke/index.html) | Oracle System Ltd, 5th Floor Milimani Rd, Nairobi | [ok-link](http://www.oracle.com/oms/campus/emea/index.html) |
 | [Sematime](http://sematime.com/) | 671 Kirichwa Rd, Nairobi City, Kenya| - |
 | [SoftClans Technologies Limited](http://www.softclans.co.ke) | Mirage Plaza, Mombasa Rd, Nairobi | - |
 | [Ushahidi Kenya](https://www.ushahidi.com) | 1st Floor, Bishop Magua Centre, Ngong Rd, Nairobi, Kenya| - |
