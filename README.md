@@ -20,6 +20,8 @@ The list I have come up with so far includes:
 | [Oracle Kenya](https://www.oracle.com/ke/index.html) | Oracle System Ltd, 5th Floor Milimani Rd, Nairobi | [link](http://www.oracle.com/oms/campus/emea/index.html) |
 | [Sematime](http://sematime.com/) | 671 Kirichwa Rd, Nairobi City, Kenya| - |
 | [SoftClans Technologies Limited](http://www.softclans.co.ke) | Mirage Plaza, Mombasa Rd, Nairobi | - |
+| [Software Dynamics Africa](https://www.softwaredynamics.co.ke/) | Titan Blg, Nairobi, Kenya | - |
+| [Techno Brain](https://technobraingroup.com) |  Woodlands Rd, Nairobi, Kenya | [link](https://technobraingroup.com/careers/) |
 | [Ushahidi Kenya](https://www.ushahidi.com) | 1st Floor, Bishop Magua Centre, Ngong Rd, Nairobi, Kenya| - |
 
 ## About
