@@ -1,4 +1,4 @@
-5# COMPUTER SCIENCE INDUSTRIAL ATTACHMENT APPLICATION
+# COMPUTER SCIENCE INDUSTRIAL ATTACHMENT APPLICATION
 
 I have been thinking of coming up with a list of companies offering industrial attachment oppportunites in Computer Science in Kenya. I have to admit that information about the potential companies was not easily available to those who wished to apply for attachment at the end of their third year education in Computer Science.  
 Other IT related courses can also benefit from such information.  
