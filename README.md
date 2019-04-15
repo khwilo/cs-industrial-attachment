@@ -1,4 +1,4 @@
-# COMPUTER SCIENCE INDUSTRIAL ATTACHMENT APPLICATION
+5# COMPUTER SCIENCE INDUSTRIAL ATTACHMENT APPLICATION
 
 I have been thinking of coming up with a list of companies offering industrial attachment oppportunites in Computer Science in Kenya. I have to admit that information about the potential companies was not easily available to those who wished to apply for attachment at the end of their third year education in Computer Science.  
 Other IT related courses can also benefit from such information.  
@@ -13,6 +13,7 @@ The list I have come up with so far includes:
 |[Broadband Communication Networks](http://www.broadcom.co.ke/) | Kalson Towers, P.O Box 10840 Parklands Rd, Nairobi, Kenya | [bcn-link](http://www.broadcom.co.ke/?page_id=3192) |
 | [Cellulant Kenya](http://www.cellulant.com/) | 5th & 6th Floor, Cavendish Building, 14 Riverside Dr, Nairobi City, Kenya | [ck-link](http://www.cellulant.com/join-us) |
 | [CloudHop](http://cloudhop.it) | 2nd Floor, Encee Place, Muguga Green, Nairobi, Kenya| - |
+| [Coretec systems and solutions](http://coretec.co.ke/index.html) | Westlands road  24 Westlands  | - |
 | [CopyCat](http://www.copycatgroup.com)|Essar House, Muguga Green Lane, Off Brookside Drive, Westlands| - |
 | [Craft Silicon](http://www.craftsilicon.com)| Musa Gitau Rd, Nairobi | [cs-link](http://www.craftsilicon.com/careers.php) |
 | [Google Nairobi](http://www.google.com/about/careers/locations/nairobi) | Google Nairobi, 7th Floor, Purshottam Place Westlands Rd, Westlands, Nairobi | - |
@@ -26,6 +27,7 @@ The list I have come up with so far includes:
 | [Synacor Consortium Limited](http://synacor.co.ke/) | Westend Place, Off Mai Mahiu Rd. Nairobi, Kenya | [scl-link](http://synacor.co.ke/careers/) |
 | [Techno Brain](https://technobraingroup.com) |  Woodlands Rd, Nairobi, Kenya | [tb-link](https://technobraingroup.com/careers/) |
 | [Ushahidi Kenya](https://www.ushahidi.com) | 1st Floor, Bishop Magua Centre, Ngong Rd, Nairobi, Kenya| - |
+| [Wizag Solutions](http://wizag.biz/) | Westlands Nairobi | - |
 
 ## About
 
