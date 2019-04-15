@@ -27,6 +27,7 @@ The list I have come up with so far includes:
 | [Synacor Consortium Limited](http://synacor.co.ke/) | Westend Place, Off Mai Mahiu Rd. Nairobi, Kenya | [scl-link](http://synacor.co.ke/careers/) |
 | [Techno Brain](https://technobraingroup.com) |  Woodlands Rd, Nairobi, Kenya | [tb-link](https://technobraingroup.com/careers/) |
 | [Ushahidi Kenya](https://www.ushahidi.com) | 1st Floor, Bishop Magua Centre, Ngong Rd, Nairobi, Kenya| - |
+| [Wizag Solutions](http://wizag.biz/) | Westlands Nairobi | - |
 
 ## About
 
