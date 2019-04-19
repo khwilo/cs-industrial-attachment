@@ -11,7 +11,7 @@ The list I have come up with so far includes:
 | [Africa's talking](https://www.africastalking.com) |  Galana Rd, Nairobi, Kenya | - |
 | [Bernsoft](http://www.bernsoft.com)| Bernsoft, Applewood Park, West Wing, Suite 505, 4th Floor, Wood Ave, Nairobi City, Kenya| - |  
 |[Broadband Communication Networks](http://www.broadcom.co.ke/) | Kalson Towers, P.O Box 10840 Parklands Rd, Nairobi, Kenya | [bcn-link](http://www.broadcom.co.ke/?page_id=3192) |
-| [CBA bank Kenya] (https://cbagroup.com/) | Woodvale Cl, Nairobi Phone: 020 2884000 | - |
+| [CBA bank Kenya](https://cbagroup.com/) | Woodvale Cl, Nairobi Phone: 020 2884000 | - |
 | [Cellulant Kenya](http://www.cellulant.com/) | 5th & 6th Floor, Cavendish Building, 14 Riverside Dr, Nairobi City, Kenya | [ck-link](http://www.cellulant.com/join-us) |
 | [CloudHop](http://cloudhop.it) | 2nd Floor, Encee Place, Muguga Green, Nairobi, Kenya| - |
 | [Coretec systems and solutions](http://coretec.co.ke/index.html) | Westlands road  24 Westlands  | - |
